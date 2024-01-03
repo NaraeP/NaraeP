@@ -52,12 +52,12 @@
 <div style="display: flex;">
   
   <!-- GitHub stats -->
-  <a href="https://github.com/NaraeP">
+  <a href="https://github.com/NaraeP" style="text-decoration: none;">
     <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=NaraeP&show_icons=true&include_all_commits=true&theme=rose&hide_border=true" alt="NaraeP's github stats" />
   </a>
   
   <!-- Top Languages Card -->
-  <a href="https://github.com/NaraeP">
+  <a href="https://github.com/NaraeP" style="text-decoration: none;">
     <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaraeP&layout=compact&theme=rose&hide_border=true" />
   </a>
 
