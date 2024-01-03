@@ -1,7 +1,20 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&fontAlignY=30&fontSize=30&text=Narae's%20GitHub&descAlignY=50&desc=Welcome%20to%20my%20repository👋🏻!" alt="header">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&fontAlignY=30&fontSize=30&text=Narae's%20GitHub&descAlignY=50&desc=Hello%20There,%20I'm%20Narae%20Park.😊👋🏻" alt="header">
 
 <!-- Body -->
+
+
+<div align=center>
+<h2>About me</h2>
+<p><b>I'm a passionate full stack web developer from South Korea.</b></p>
+<p><b>I love to experience what I haven't done before.</b></p>
+<p><b>I'm currently seeking new opportunities to apply my knowledge and expertise in the web development space.</b></p>
+
+🌱 I’m currently learning ...
+
+</div>
+
+
 <!-- Body - Badge -->
 <div style="display: flex;">
 
@@ -48,19 +61,16 @@
 <!-- 아래는 나중에 style 바꾸고 싶을 때 사용 -->
 <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> -->
 
-<!-- Body - GitHub Info -->
+### GitHub Stats
 <div style="display: flex;">
-  
   <!-- GitHub stats -->
-  <a href="https://github.com/NaraeP" style="text-decoration: none;">
+  <a href="https://github.com/NaraeP" style="text-decoration: none !important;">
     <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=NaraeP&show_icons=true&include_all_commits=true&theme=rose&hide_border=true" alt="NaraeP's github stats" />
   </a>
-  
   <!-- Top Languages Card -->
   <a href="https://github.com/NaraeP" style="text-decoration: none;">
     <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaraeP&layout=compact&theme=rose&hide_border=true" />
   </a>
-
 </div>
 
 <!--
