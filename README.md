@@ -13,9 +13,25 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> </t>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> 
+
+  <!-- Front End -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+
+  <!-- Framework -->
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+
+  <!-- 배포 -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+
+  <!-- OS -->
+  <img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=Windows&logoColor=white"/>
+  
 </div>
 
 
