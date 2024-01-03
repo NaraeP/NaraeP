@@ -1,5 +1,9 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:ffcdd2,100:f8bbd0&text=Narae%20Park's%20Git)
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&fontAlignY=30&text=Narae%20Park's%20Git&desc=Welcome%20to%20my%20repository👋🏻!" alt="header">
+
+<!-- 기존 header ver.
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:ffcdd2,100:f8bbd0&text=Narae%20Park's%20Git)
+-->
 
 <!-- Body -->
 <!-- 기술 스택 -->
