@@ -1,8 +1,7 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&fontAlignY=25&fontSize=30&text=Narae's%20GitHub&descAlignY=50&desc=Hello%20There,%20I'm%20Narae%20Park.😊👋🏻" alt="header" style="width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&fontAlignY=25&fontSize=30&text=Narae's%20GitHub&descAlignY=50&desc=Hello%20there,%20I'm%20Narae%20Park.😊👋🏻" alt="header" style="width: 100%;">
 
 <!-- Body -->
-
 ## About me
 <p>🙋🏻‍♀️ I'm a passionate full stack web developer from South Korea.</p>
 <p>❤️ I love to experience what I haven't done before.</p>
