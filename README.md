@@ -3,7 +3,7 @@
 
 <!-- Body -->
 ## About me
-<p>🙋🏻‍♀️ I'm a passionate **new** full stack web developer from South Korea.</p>
+<p>🙋🏻‍♀️ I'm a passionate <b>new</b> full stack web developer from South Korea.</p>
 <p>❤️ I love to experience what I haven't done before.</p>
 <p>💼 I'm currently seeking new opportunities to apply my knowledge and expertise in the web development space.</p>
 <p>🌱 I’m constantly learning and updating my skills to stay up-to-date with the latest technologies.</p>
