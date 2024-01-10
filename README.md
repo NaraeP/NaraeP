@@ -20,12 +20,16 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 <h4>Back-end</h4>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white">
+  <img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge&logo=Java&logoColor=white">
 </div>
 
 <!-- Framework -->
@@ -41,13 +45,16 @@
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
 </div>
 
 <!-- Etc -->
 <h4>Etc</h4>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
   <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
 </div>
 
 <!-- OS -->
@@ -63,6 +70,7 @@
 <!-- Version Control Tools -->
 <h4>Version Control Tools</h4>
 <div style="display: flex;">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
 </div>
@@ -82,6 +90,12 @@
   
   <!-- Top Languages Card -->
   <a href="https://github.com/NaraeP"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaraeP&layout=compact&theme=rose&hide_border=true" /></a>
+</div>
+<br>
+
+## Contact
+<div style="display: flex;"> <!-- Gmail 주소 링크 연동하기 -->
+  <a target="_blank" href="mailto:naraep23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <!-- Footer -->
