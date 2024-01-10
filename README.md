@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=1&height=200&fontAlignY=26&fontSize=30&text=Narae's%20GitHub&descAlignY=50&desc=Hello%20there,%20I'm%20Narae%20Park.😊👋🏻" alt="header" style="width: 100%;">
 
 <!-- Body -->
-## About me
+<h2>About me</h2>
 <p>🙋🏻‍♀️ I'm a passionate <b>"new"</b> full stack web developer from South Korea.</p>
 <p>🌻 I was a user, but now I've become a developer. </p>
 <p>❤️ I love to experience what I haven't done before!</p>
@@ -11,7 +11,7 @@
 <p>🌱 I’m constantly learning and updating my skills to stay up-to-date with the latest technologies.</p>
 <br>
 
-## What I've ever used
+<h2>What I've ever used</h2>
 <!-- Front End -->
 <h4>Front-end</h5>
 <div style="display: flex;">
@@ -83,17 +83,16 @@
 </div>
 <br>
 
-## GitHub Stats
+<h2>GitHub Stats</h2>
 <div style="display: flex;">
   <!-- GitHub stats -->
   <a href="https://github.com/NaraeP"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api?username=NaraeP&show_icons=true&include_all_commits=true&theme=rose&hide_border=true&count_private=true" alt="NaraeP's github stats" /></a>
-  
   <!-- Top Languages Card -->
   <a href="https://github.com/NaraeP"><img align="center" style="height:180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaraeP&layout=compact&theme=rose&hide_border=true" /></a>
 </div>
 <br>
 
-## Contact
+<h2>Contact</h2>
 <div style="display: flex;"> <!-- Gmail 주소 링크 연동하기 -->
   <a target="_blank" href="mailto:naraep23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
